@@ -1,6 +1,8 @@
 <div class="k-register">
 	<header>
-		1
+		<i></i>
+		<span>登录</span>
+		<i></i>
 	</header>
 	<section>
 		2

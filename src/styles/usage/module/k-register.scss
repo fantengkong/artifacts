@@ -4,7 +4,23 @@
     @include flexbox();
     @include flex-direction(column);
     header{
-        height: .47rem;
+        height: .44rem;
+        @include flexbox();
+        background:$base-color;
+        line-height: .44rem;
+        color:#fff;
+        i{
+            width: .44rem;
+            text-align: center;
+            
+            color: rgba(255,255,255,0.8);
+            font-size: .22rem;
+        }
+        span{
+            @include flex();
+            text-align: center;
+            font-size: .14rem;
+        }
     }
     section{
         @include flex();
