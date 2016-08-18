@@ -1,0 +1,15 @@
+.k-register{
+    width: 100%;
+    height: 100%;
+    @include flexbox();
+    @include flex-direction(column);
+    header{
+        height: .47rem;
+    }
+    section{
+        @include flex();
+    }
+    footer{
+        height: .44rem;
+    }
+}
