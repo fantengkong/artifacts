@@ -6,26 +6,57 @@
     header{
         height: .44rem;
         @include flexbox();
-        background:$base-color;
+        background:#333;
         line-height: .44rem;
         color:#fff;
+        font-weight: 900;
         i{
-            width: .44rem;
+            display: block;
+            width: .48rem;
             text-align: center;
-            
-            color: rgba(255,255,255,0.8);
             font-size: .22rem;
         }
         span{
-            @include flex();
+            
             text-align: center;
             font-size: .14rem;
+            &:nth-of-type(1){
+                width: .92rem;
+                font-weight: 900;
+            }
+            &:nth-of-type(2){
+                @include flex();
+                font-weight: 900;
+                font-size: .21rem;
+            }
+            &:last-child{
+                width: .92rem;
+                font-size: .16rem;
+            }
         }
     }
     section{
         @include flex();
+        @include flexbox();
+        
+        
+        
     }
     footer{
         height: .44rem;
+        @include flexbox();
+        background: #fff;
+        i{
+            @include flex();
+            text-align: center;
+            line-height: .44rem;
+            font-size: .3rem;
+            color: #999;
+            &.active{
+                color: $base-color;
+                @include border(3px 0 0 0,$base-color)
+            }   
+        }
+        
     }
 }

@@ -1,14 +1,16 @@
 <div class="k-register">
 	<header>
-		<i></i>
+		<span><i class="yo-ico">&#xe745;</i></span>
 		<span>登录</span>
-		<i></i>
+		<span>手机注册</span>
 	</header>
 	<section>
 		2
 	</section>
 	<footer>
-		3
+		<i class="yo-ico">&#xe745;</i>
+		<i class="yo-ico">&#xe745;</i>
+		<i class="yo-ico active">&#xe745;</i>
 	</footer>
 </div>
 
