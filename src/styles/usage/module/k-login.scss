@@ -44,6 +44,7 @@
         text-align: center;
         background:#fff;
         font-weight:bold;
+        color:$base-color;
         div{
             width: 100%;
             img{
@@ -62,7 +63,7 @@
                     width: .3rem;
                     height: 100%;
 //                  @include border(1px, #bcbcbc, solid, .05rem 0 0 .05rem);
-                    border: 1px solid #bcbcbd;
+                    border: 1px solid #bcbcbc;
                     border-radius:.05rem 0 0 .05rem;
                     line-height: .38rem;
                     border-right: none;
@@ -76,7 +77,7 @@
                     height: .4rem;
                     color: #999;
                     
-                    border: 1px solid #bcbcbd;
+                    border: 1px solid #bcbcbc;
                     border-radius:0 .05rem .05rem 0;
                 }
             }

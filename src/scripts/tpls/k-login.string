@@ -1,6 +1,6 @@
 <div class="k-login">
 	<header>
-		<span><i class="iconfont">&#xe631;</i></span>
+		<span><i class="iconfont" action-type="back">&#xe631;</i></span>
 		<span>登录</span>
 		<span>手机注册</span>
 	</header>
@@ -14,8 +14,8 @@
 		<div class="k-user"><i class="iconfont">&#xe735;</i><input type="text" placeholder="用户名/手机号/邮箱" /></div>
 		<div class="k-psd"><i class="iconfont">&#xe604;</i><input type="text" placeholder="请输入密码" /></div>
 		
-		<span><i>忘记密码？</i></span>
-		<span><button>登录</button></span>
+		<span><i class="k-mm">忘记密码？</i></span>
+		<span><button class="k-loginbtn">登录</button></span>
 		
 		<span><i>其它合作方登录</i></span>
 		<i class="iconfont k-wx">&#x3488;</i>
