@@ -1,0 +1,127 @@
+.k-login{
+    width: 100%;
+    height: 100%;
+    @include flexbox();
+    @include flex-direction(column);
+    header{
+        height: .44rem;
+        @include flexbox();
+        background:#333;
+        line-height: .44rem;
+        color:#fff;
+        font-weight: 900;
+        i{
+            display: block;
+            width: .48rem;
+            text-align: center;
+            font-size: .22rem;
+        }
+        span{
+            
+            text-align: center;
+            font-size: .14rem;
+            &:nth-of-type(1){
+                width: .92rem;
+                font-weight: 900;
+                font-weight: 100;
+            }
+            &:nth-of-type(2){
+                @include flex();
+                font-weight: 900;
+                font-size: .21rem;
+            }
+            &:last-child{
+                width: .92rem;
+                font-size: .16rem;
+            }
+        }
+    }
+    section{
+        @include flex();
+        @include flexbox();
+        @include flex-direction(column);
+        width: 100%;
+        text-align: center;
+        background:#fff;
+        font-weight:bold;
+        div{
+            width: 100%;
+            img{
+                width: .7rem;
+            }
+            &:first-child{
+                margin-top: .21rem;
+            }
+            &:nth-child(2){
+                margin: .14rem 0;
+            }
+            &.k-user,&.k-psd{
+                padding:0 .2rem;
+                @include flexbox();
+                i{
+                    width: .3rem;
+                    height: 100%;
+//                  @include border(1px, #bcbcbc, solid, .05rem 0 0 .05rem);
+                    border: 1px solid #bcbcbd;
+                    border-radius:.05rem 0 0 .05rem;
+                    line-height: .38rem;
+                    border-right: none;
+                    color: $base-color;
+                    
+                }
+                input{
+//                  @include border(1px, #bcbcbc, solid, 0 .05rem .05rem 0);
+                    padding-left: .13rem;
+                    width: 100%;
+                    height: .4rem;
+                    color: #999;
+                    
+                    border: 1px solid #bcbcbd;
+                    border-radius:0 .05rem .05rem 0;
+                }
+            }
+            &.k-user{
+                margin-bottom: .1rem;
+            }
+            
+        }
+        span:nth-of-type(1){
+            @include flexbox();
+            @include justify-content(flex-end);
+            color: $base-color;
+            padding: .1rem .2rem;
+        };
+        span:nth-of-type(2){
+            padding: .2rem .3rem;
+            button{
+                width: 100%;
+                height: .4rem;
+//              @include border(0px,$base-color,solid,.06rem);
+            
+                border-radius: .06rem;
+                color: #fff;
+                background: $base-color;
+            }
+        }
+        span:nth-of-type(3){
+            padding: .06rem .1rem 0 .1rem;
+            color:#666;
+            i{
+                width: 100%;
+                display: inline-block;
+                padding-bottom: .13rem;
+                @include border(0 0 1px 0,#bbb);
+                font-weight: 900;
+            }
+            
+        }
+        .k-wx{
+            font-size: .33rem;
+            color: $base-color;
+        }
+    }
+    footer{
+        @extend %footer;
+        
+    }
+}

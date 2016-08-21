@@ -1,5 +1,5 @@
-var indexRegister = require('../tpls/k-register.string');
+var registerTpl = require('../tpls/k-register.string');
 
 SPA.defineView('k-register',{
-	html:indexRegister
-});
+	html:registerTpl
+})

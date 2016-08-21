@@ -1,0 +1,31 @@
+<div class="k-login">
+	<header>
+		<span><i class="iconfont">&#xe631;</i></span>
+		<span>登录</span>
+		<span>手机注册</span>
+	</header>
+	<section>
+		<div>
+			<img src="/artifacts/images/k-img/qiwulogo.png"/>
+		</div>
+		<div>
+			<img src="/artifacts/images/k-img/qiwuzi.png"/>
+		</div>
+		<div class="k-user"><i class="iconfont">&#xe735;</i><input type="text" placeholder="用户名/手机号/邮箱" /></div>
+		<div class="k-psd"><i class="iconfont">&#xe604;</i><input type="text" placeholder="请输入密码" /></div>
+		
+		<span><i>忘记密码？</i></span>
+		<span><button>登录</button></span>
+		
+		<span><i>其它合作方登录</i></span>
+		<i class="iconfont k-wx">&#x3488;</i>
+		
+	</section>
+	<footer>
+		<i class="iconfont">&#xe673;</i>
+		<i class="iconfont">&#xe606;</i>
+		<i class="iconfont active">&#xe735;</i>
+	</footer>
+</div>
+
+

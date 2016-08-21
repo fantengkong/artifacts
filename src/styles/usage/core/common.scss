@@ -1,11 +1,41 @@
 $base-color: #dabb7e;
-
-@font-face {
-  font-family: yofont;
-  src: url("/artifacts/images/iconfont/iconfont.woff") format("woff"), url("/artifacts/images/iconfont/iconfont.ttf") format("truetype");
+%footer{
+    height: .44rem;
+    @include flexbox();
+    background: #fff;
+    i{
+        @include flex();
+        text-align: center;
+        line-height: .44rem;
+        font-size: .3rem;
+        color: #999;
+        &.active{
+            color: $base-color;
+            @include border(3px 0 0 0,$base-color)
+        }   
+    }
 }
-
 @font-face {
-  font-family: yofont;
-  src: url("/artifacts/images/iconfont/iconfont-menu.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-menu.ttf") format("truetype");
+    font-family: yofont;
+    src: url("/artifacts/images/iconfont/iconfont.woff") format("woff"), url("/artifacts/images/iconfont/iconfont.ttf") format("truetype");
+}
+@font-face {
+    font-family: yofont;
+    src: url("/artifacts/images/iconfont/iconfont-menu.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-menu.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'iconfont';
+    src: url("/artifacts/images/iconfont/iconfont-k-register.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-k-register.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'iconfont';
+    src: url("/artifacts/images/iconfont/iconfont-k-login.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-k-login.ttf") format("truetype");
+}
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
 }
