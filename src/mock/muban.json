@@ -1,0 +1,206 @@
+{
+	"listproducrs": [
+		{
+			"childTitle": "渐变色玻璃花器",
+			"collection": 2,
+			"fav": 1,
+			"introduction": "印度-IXIA | 此款玻璃花瓶采用了特殊的烧制工艺，每一只瓶身都会显现出独一无二的绚烂渐变色。",
+			"originalPrice": 458,
+			"pcid": 100304,
+			"pid": 1237,
+			"price": 458,
+			"proImg1": "http://img.qi-wu.com/product/201602/85721456368728754.jpg"
+		}, {
+			"childTitle": "枝桠铜质花插",
+			"collection": 4,
+			"fav": 1,
+			"introduction": "瑞典-KLONG | 来自瑞典的铜质手工枝桠花插，给人的第一感受就是简单而有趣味。配合花朵与叶子装饰更是还原了植物一种生长的姿态。",
+			"originalPrice": 499,
+			"pcid": 100435,
+			"pid": 1368,
+			"price": 499,
+			"proImg1": "http://img.qi-wu.com/product/201603/27091457438264004.jpg"
+		}, {
+			"childTitle": "金属小花插",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "印度-LIGHT&LIVING | 玫瑰金色铜质花插，精细灵巧，以环形作为主要元素，没有过于复杂的设计。插入单支鲜花，装点家居优雅中透露出一丝典雅。",
+			"originalPrice": 78,
+			"pcid": 100438,
+			"pid": 1371,
+			"price": 78,
+			"proImg1": "http://img.qi-wu.com/product/201603/97911457439064394.jpg"
+		}, {
+			"childTitle": "方形气泡纹玻璃花瓶",
+			"collection": 2,
+			"fav": 1,
+			"introduction": "日本-荒川尚也 | 日本现代玻璃艺术家荒川尚也手工吹制的方形玻璃花瓶，瓶体圆润，毫无生硬的棱角，并用不规则流动的气泡给平淡的玻璃制品带来灵动的生气，仿佛奔腾的水流，透过这样的作品似乎能看到作者眼中的大自然，用于插花更显自然和生动。",
+			"originalPrice": 999,
+			"pcid": 100553,
+			"pid": 1486,
+			"price": 999,
+			"proImg1": "http://img.qi-wu.com/product/201603/44351458528258084.jpg"
+		}, {
+			"childTitle": "黄铜玻璃花瓶",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | 此款TANK系列镀铜花瓶采用锥形瓶口设计，为小束鲜花量身定制。该系列玻璃器皿，每一个皆为人工吹制，配合以恰当好处的手绘黄铜装饰，以最传统的制作方式打造最别具一格的作品。",
+			"originalPrice": 1080,
+			"pcid": 100560,
+			"pid": 1493,
+			"price": 1080,
+			"proImg1": "http://img.qi-wu.com/product/201603/77031458530808834.jpg"
+		}, {
+			"childTitle": "手工几何镀铜花插",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "印度-HOUSE DOCTOR | 经典的几何造型，镀铜工艺技术花插，厚重沉稳，适合家居造景布置。",
+			"originalPrice": 128,
+			"pcid": 100569,
+			"pid": 1502,
+			"price": 128,
+			"proImg1": "http://img.qi-wu.com/product/201603/72151458543350896.jpg"
+		}, {
+			"childTitle": "细口金属花瓶",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "印度-HOUSE DOCTOR | 纯手工制作铜制花瓶，质感厚重，无论纯摆设还是搭配花艺都很棒",
+			"originalPrice": 368,
+			"pcid": 100572,
+			"pid": 1505,
+			"price": 368,
+			"proImg1": "http://img.qi-wu.com/product/201603/21571458547743365.jpg"
+		}, {
+			"childTitle": "银色条纹矮花插",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "印度-HOUSE DOCTOR | 匠人手工压刻的传统图案，搭配鲜花非常好看。",
+			"originalPrice": 428,
+			"pcid": 100580,
+			"pid": 1513,
+			"price": 428,
+			"proImg1": "http://img.qi-wu.com/product/201603/54491458550936474.jpg"
+		}, {
+			"childTitle": "金色复古高花插",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "印度-HOUSE DOCTOR | 匠人手工压刻的传统图案，无论纯摆放还是搭配花艺都非常好看。金色亦是越来越流行",
+			"originalPrice": 218,
+			"pcid": 100581,
+			"pid": 1514,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201603/13601458551728052.jpg"
+		}, {
+			"childTitle": "金属花插",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "印度-HOUSE DOCTOR | 纯手工金属小花插，可做花盆，也可做花插",
+			"originalPrice": 348,
+			"pcid": 100582,
+			"pid": 1515,
+			"price": 348,
+			"proImg1": "http://img.qi-wu.com/product/201604/81141459474176802.jpg"
+		}, {
+			"childTitle": "金属细口小花插-大",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "印度-LIGHT&LIVING | 银色金属质感的小花插，S型的曲线设计，精致、柔美。搭配三两支鲜花，衬托出鲜花的艳丽芬芳，但又不失自身细腻柔美。花与花插的完美结合，也是家中的一笔靓丽色彩。",
+			"originalPrice": 78,
+			"pcid": 100429,
+			"pid": 1362,
+			"price": 78,
+			"proImg1": "http://img.qi-wu.com/product/201603/65341457433537582.jpg"
+		}, {
+			"childTitle": "金属细口小花插-小",
+			"collection": 2,
+			"fav": 1,
+			"introduction": "印度-LIGHT&LIVING | 银色金属质感的小花插，S型的曲线设计，精致、柔美。搭配三两支鲜花，衬托出鲜花的艳丽芬芳，但又不失自身细腻柔美。花与花插的完美结合，也是家中的一笔靓丽色彩。",
+			"originalPrice": 68,
+			"pcid": 100428,
+			"pid": 1361,
+			"price": 68,
+			"proImg1": "http://img.qi-wu.com/product/201603/76991457431923347.jpg"
+		}, {
+			"childTitle": "银色复古高花插",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "印度-HOUSE DOCTOR | 匠人手工压刻的传统图案，搭配鲜花非常好看。",
+			"originalPrice": 218,
+			"pcid": 100583,
+			"pid": 1516,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201603/73831458552534677.jpg"
+		}, {
+			"childTitle": "银色复古花插",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "印度-HOUSE DOCTOR | 匠人手工压刻的传统图案，搭配鲜花非常好看。",
+			"originalPrice": 158,
+			"pcid": 100584,
+			"pid": 1517,
+			"price": 158,
+			"proImg1": "http://img.qi-wu.com/product/201603/61941458552721927.jpg"
+		}, {
+			"childTitle": "复古金属花瓶",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "印度-HOUSE DOCTOR | 匠人手工制作的金属花插，简约却不简单，一件小小的花插融入了生活的态度。",
+			"originalPrice": 88,
+			"pcid": 100587,
+			"pid": 1520,
+			"price": 88,
+			"proImg1": "http://img.qi-wu.com/product/201603/86491458553971927.jpg"
+		}, {
+			"childTitle": "细口金属小花插",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "印度-HOUSE DOCTOR | 匠人手工制作的金属花插，简约却不简单，一件小小的花插融入了生活的态度。",
+			"originalPrice": 98,
+			"pcid": 100588,
+			"pid": 1521,
+			"price": 98,
+			"proImg1": "http://img.qi-wu.com/product/201603/85611458554311037.jpg"
+		}, {
+			"childTitle": "小花插",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "印度-LIGHT&LIVING | 玫瑰金色铜质花插，精细灵巧，以环形作为主要元素，没有过于复杂的设计。插入单支鲜花，装点家居优雅中透露出一丝典雅。",
+			"originalPrice": 99,
+			"pcid": 100594,
+			"pid": 1527,
+			"price": 99,
+			"proImg1": "http://img.qi-wu.com/product/201603/43531458556198662.jpg"
+		}, {
+			"childTitle": "银色金属花插",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "印度-HOUSE DOCTOR | 匠人手工压刻的传统图案，搭配鲜花非常好看。",
+			"originalPrice": 260,
+			"pcid": 100506,
+			"pid": 1439,
+			"price": 260,
+			"proImg1": "http://img.qi-wu.com/product/201603/31011458366032427.jpg"
+		}, {
+			"childTitle": "银色锥形花插",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "印度-GATHER集物 | 匠人手工压刻的传统图案，搭配鲜花非常好看",
+			"originalPrice": 680,
+			"pcid": 100507,
+			"pid": 1440,
+			"price": 680,
+			"proImg1": "http://img.qi-wu.com/product/201603/37561458366444427.jpg"
+		}, {
+			"childTitle": "银色大口雕花花插",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "印度-GATHER集物 | 匠人手工压刻的传统图案，可搭配植物做花盆，或者放置杂物，功能很多",
+			"originalPrice": 498,
+			"pcid": 100508,
+			"pid": 1441,
+			"price": 498,
+			"proImg1": "http://img.qi-wu.com/product/201603/53491458367187677.png"
+		}
+	],
+	"pageCount": 3
+}
