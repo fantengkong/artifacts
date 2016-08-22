@@ -1,0 +1,114 @@
+body{
+    background: #FFFFFF;
+}
+#m-container{
+    width: 100% !important;
+    position: relative;
+    height: 100%;
+        @include flex();
+        header{
+            width: 100%;
+            height: .44rem;
+            @include flexbox();
+            text-align: center!important;
+            line-height: .44rem;
+            font-size: .19rem;
+            color: #FFFFFF;
+            p{
+                width: 100%;
+                height: 100%;
+                text-align: center!important;
+                background:#000;
+            }
+        }
+        nav {
+            height: 1.86rem;
+            margin-bottom: .05rem;
+            .swiper-container{
+                width: 100%;
+                height: 100%;
+                background: #f00;
+                
+            }
+        }
+        .L-scroll{
+          width: 100%!important;
+          height: 100%;
+          @include flex(1);
+          background: #FFFFFF;
+          overflow: hidden;
+          .swiper-slide{
+                width: 100%;
+                img{
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+            .L-banner{
+                width: 100%;
+                height: 1.86rem;
+                img{
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+            .L-classic{
+                width: 100%;
+                margin: .1rem 0;
+                .L-classicUl{
+                    width: 100%;
+                    @include flexbox();
+                    @include flex-flow(wrap);
+                    li{
+                         width: 25%;
+                         @include flexbox();
+                         @include flex-direction(column);
+                         @include justify-content(center);
+                         margin-bottom: .1rem;
+                         text-align: center;
+                         border-right:.01rem solid #e0e0e0 ;
+                         box-sizing: border-box;
+                         img{
+                             margin: 0 auto .05rem;
+                             width: .30rem;
+                             height: .30rem;
+                         };
+                         &:nth-of-type(4){
+                             border: none;
+                         };
+                         &:nth-of-type(8){
+                             border: none;
+                         };
+                    }
+                }
+            }
+            .L-host{
+                width: 100%;
+                padding: .1rem;
+                font-size: 100%;
+                font-weight: 700;
+                text-decoration: underline;
+            }
+            .L-hostList{
+                width: 100%;
+                @include flexbox();
+                @include flex-flow(wrap);
+                @include justify-content(center);
+                li{
+                    @include flexbox();
+                    @include flex-direction(column);
+                    @include justify-content(center);
+                    text-align: center;
+                    width: 33.33%;
+                    img{
+                        width: .9rem;
+                        height: .9rem;
+                    }
+                    span{
+                        line-height: .2rem;
+                    }
+                }
+            }
+         
+        }
+}
