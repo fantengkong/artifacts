@@ -21,9 +21,15 @@ body{
             li{
                  @include flex();
                  text-align: center;
+<<<<<<< HEAD
                  line-height: .43rem;
                  font-size: .28rem;
                  color: #999999;
+=======
+                 line-height: .38rem;
+                 font-size: .28rem;
+                 color: #444;
+>>>>>>> liuwenhui
                  box-sizing: border-box;
                  border-top:.03rem solid #FFFFFF ;
                  &.active{

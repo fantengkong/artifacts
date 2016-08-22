@@ -109,6 +109,36 @@ body{
                     }
                 }
             }
+<<<<<<< HEAD
+=======
+            .L-brand{
+                width: 100%;
+                margin-bottom: .02rem;
+                a{
+                    display: block;
+                    width: 100%;
+                    img{
+                        width: 100%;
+                    }
+                }
+            }
+            .L-brandBox{
+                width: 100%;
+                padding: .05rem;
+                @include flexbox();
+                @include flex-flow(nowrap);
+                li{
+                    border-right:1px solid #c0c0c0 ;
+                    box-sizing: border-box;
+                    img{
+                        width: 100%;
+                    }
+                    &:nth-of-type(3){
+                        border: none;
+                    }
+                }
+            }
+>>>>>>> liuwenhui
          
         }
 }
