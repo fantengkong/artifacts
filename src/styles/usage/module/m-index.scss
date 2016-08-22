@@ -21,9 +21,9 @@ body{
             li{
                  @include flex();
                  text-align: center;
-                 line-height: .43rem;
+                 line-height: .38rem;
                  font-size: .28rem;
-                 color: #999999;
+                 color: #444;
                  box-sizing: border-box;
                  border-top:.03rem solid #FFFFFF ;
                  &.active{
