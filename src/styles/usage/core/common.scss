@@ -34,6 +34,10 @@ $base-color: #dabb7e;
     font-family: 'iconfont';
     src: url("/artifacts/images/iconfont/iconfont-k-login.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-k-login.ttf") format("truetype");
 }
+@font-face {
+    font-family: 'iconfont';
+    src: url("/artifacts/images/iconfont/iconfont-k-my.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-k-my.ttf") format("truetype");
+}
 .iconfont {
     font-family: "iconfont" !important;
     font-size: 16px;
