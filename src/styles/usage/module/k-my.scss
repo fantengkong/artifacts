@@ -1,0 +1,77 @@
+.k-my{
+    width: 100%;
+    height: 100%;
+    @include flexbox();
+    @include flex-direction(column);
+    header{
+        height: .44rem;
+        @include flexbox();
+        background:#333;
+        line-height: .44rem;
+        color:#fff;
+        font-weight: 900;
+        i{
+            display: block;
+            width: .48rem;
+            text-align: center;
+            font-size: .22rem;
+        }
+        span{
+            
+            text-align: center;
+            font-size: .14rem;
+            &:nth-of-type(1){
+                width: .92rem;
+                font-weight: 900;
+                font-weight: 100;
+            }
+            &:nth-of-type(2){
+                @include flex();
+                font-weight: 900;
+                font-size: .21rem;
+            }
+            &:last-child{
+                width: .92rem;
+                font-size: .16rem;
+            }
+        }
+    }
+    section{
+        @include flex();
+        @include flexbox();
+        @include flex-direction(column);
+        width: 100%;
+        text-align: center;
+        background:#fff;
+        font-weight:bold;
+        color:$base-color;
+        .k-m-user{
+            @include border(0 0 1px 0, #787878, solid);
+            height: .83rem;
+            @include flexbox();
+            span:first-child{
+                width: .86rem;
+                height: 100%;
+                padding: .07rem .06rem .02rem .07rem;
+                img{
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+            span:nth-of-type(2){
+                @include flex();
+                padding-top: .22rem;
+                text-align: left;
+            }
+            span:last-child{
+                width: .35rem;
+                height: 100%;
+                text-align: center;
+            }
+        }
+    }
+    footer{
+        @extend %footer;
+        
+    }
+}
