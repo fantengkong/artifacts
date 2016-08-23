@@ -37,6 +37,7 @@ body{
           @include flex(1);
           background: #FFFFFF;
           overflow: hidden;
+          position: relative!important;
           .swiper-slide{
                 width: 100%;
                 img{
