@@ -5,22 +5,40 @@
 		<span></span>
 	</header>
 	<section>
+		
+		<ul class="k-m-nav" style="display: none;">
+			<li><i class="iconfont">&#xe735;</i>个人</li>
+			<li><i class="iconfont">&#xe633;</i>通知</li>
+			<li><i class="iconfont">&#xe6db;</i>地址</li>
+			<li><i class="iconfont">&#xe608;</i>钱包</li>
+			<li><i class="iconfont">&#xe60a;</i>设置</li>
+		</ul>
+		
 		<div class="k-m-user">
 			<span><img src="/artifacts/images/k-img/k-m-user.png"/></span>
 			<span>华之初</span>
 			<span><i class="iconfont">&#xe62f;</i></span>
 		</div>
-		<div>
-			<i class="iconfont active">&#xe600;</i>
-			<i class="iconfont">&#xe606;</i>
-			<i class="iconfont">&#xe611;</i>
+		<div class="k-m-list">
+			<span class="active"><i class="iconfont">&#xe600;</i><i>2</i></span>
+			<span><i class="iconfont">&#xe606;</i><i>0</i></span>
+			<span><i class="iconfont">&#xe611;</i><i>0</i></span>
 		</div>
-		<span>我喜欢的</span>
-		<ul <!--style="display: none;"-->>
+		<span class="k-m-love">我喜欢的</span>
+		<ul class="k-m-info">
 			<li>
-				<img src="" alt="" />
-				<span>极简玻璃水壶<i class="iconfont">&#xe600;</i></span>
-				<span>意大利-SEGNO | 意大利托斯</span>
+				<div>
+					<img src="/artifacts/images/k-img/水壶.jpg" alt="" />
+					<span><i>极简玻璃水壶</i><b><i class="iconfont">&#xe600;</i><i>1</i></b></span>
+					<span>意大利-SEGNO | 意大利托斯ddddddd</span>
+				</div>
+			</li>
+			<li>
+				<div>
+					<img src="/artifacts/images/k-img/水壶.jpg" alt="" />
+					<span><i>极简玻璃水壶</i><b><i class="iconfont">&#xe600;</i><i>1</i></b></span>
+					<span>意大利-SEGNO | 意大利托斯ddddddd</span>
+				</div>
 			</li>
 		</ul>	
 		
@@ -31,5 +49,6 @@
 		<i class="iconfont active">&#xe735;</i>
 	</footer>
 </div>
+
 
 

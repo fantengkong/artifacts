@@ -1,77 +1,189 @@
-.k-my{
+.k-my {
     width: 100%;
     height: 100%;
     @include flexbox();
     @include flex-direction(column);
-    header{
-        height: .44rem;
+    header {
+        height: 0.44rem;
         @include flexbox();
-        background:#333;
-        line-height: .44rem;
-        color:#fff;
+        background: #333;
+        line-height: 0.44rem;
+        color: #fff;
         font-weight: 900;
-        i{
+        i {
             display: block;
-            width: .48rem;
+            width: 0.48rem;
             text-align: center;
-            font-size: .22rem;
+            font-size: 0.22rem;
         }
-        span{
-            
+        span {
             text-align: center;
-            font-size: .14rem;
-            &:nth-of-type(1){
-                width: .92rem;
+            font-size: 0.14rem;
+            &:nth-of-type(1) {
+                width: 0.92rem;
                 font-weight: 900;
                 font-weight: 100;
             }
-            &:nth-of-type(2){
+            &:nth-of-type(2) {
                 @include flex();
                 font-weight: 900;
-                font-size: .21rem;
+                font-size: 0.21rem;
             }
-            &:last-child{
-                width: .92rem;
-                font-size: .16rem;
+            &:last-child {
+                width: 0.92rem;
+                font-size: 0.16rem;
             }
         }
     }
-    section{
+    section {
         @include flex();
         @include flexbox();
         @include flex-direction(column);
         width: 100%;
         text-align: center;
-        background:#fff;
-        font-weight:bold;
-        color:$base-color;
-        .k-m-user{
+        background: #fff;
+        font-weight: bold;
+        overflow:hidden;
+        position:relative;
+        .k-m-nav{
+            position: absolute;
+            height: 100%;
+            width: 50%;
+            background: #333;
+            z-index: 99999;
+            color:#fff;
+            li{
+                height: .45rem;
+                line-height: .45rem;
+                text-align: left;
+                @include border(0 0 1px 0, #fff, solid);
+                i{
+                    padding: 0 .08rem 0 .12rem;
+                    
+                }
+                i.iconfont{
+                    font-size: 22px;
+                }
+                
+            }
+        }
+        .k-m-user {
             @include border(0 0 1px 0, #787878, solid);
-            height: .83rem;
+            height: 0.83rem;
             @include flexbox();
-            span:first-child{
-                width: .86rem;
+            span:first-child {
+                width: 0.86rem;
                 height: 100%;
-                padding: .07rem .06rem .02rem .07rem;
-                img{
+                padding: 0.07rem 0.06rem 0.02rem 0.07rem;
+                img {
                     width: 100%;
                     height: 100%;
                 }
             }
-            span:nth-of-type(2){
+            span:nth-of-type(2) {
                 @include flex();
-                padding-top: .22rem;
+                padding-top: 0.22rem;
                 text-align: left;
+                font-size: 16px;
             }
-            span:last-child{
-                width: .35rem;
+            span:last-child {
+                width: 0.35rem;
                 height: 100%;
                 text-align: center;
+                line-height: 0.83rem;
+                color: #bbb;
+            }
+        }
+        .k-m-list {
+            height: 0.65rem;
+            @include flexbox();
+            @include justify-content(space-around);
+            @include border(0 0 1px 0, #787878, solid);
+            span {
+                @include flexbox();
+                @include flex-direction(column);
+                @include align-items(space-around);
+                width: 0.5rem;
+                text-align: center;
+                color: #333;
+                height: 0.65rem;
+                font-size: 0.25rem;
+                i.iconfont {
+                    margin-top: 0.1rem;
+                    font-size: 0.25rem;
+                    height: 0.25rem;
+                }
+                i:last-child {
+                    transform: scale(.5);
+                }
+            }
+            span.active {
+                color: $base-color;
+                @include border(0 0 3px 0, $base-color, solid);
+            }
+        }
+        .k-m-love {
+            text-align: left;
+            padding-left: 0.05rem;
+            height: 0.38rem;
+            line-height: 0.4rem;
+            color: #bcbcbc;
+        }
+        .k-m-info {
+            @include flexbox();
+            padding: 0.05rem;
+            @include justify-content(space-between);
+            li {
+                width: 50%;
+                @include flexbox();
+                @include flex-direction(column);
+                div {
+                    width: 100%;
+                    background: #efefef;
+                    @include flexbox();
+                    @include flex-direction(column);
+                    span:nth-of-type(1) {
+                        padding: 0 0.04rem;
+                        @include flexbox();
+                        @include justify-content(space-between);
+                        i:nth-of-type(1) {
+                            height: 0.35rem;
+                            line-height: 0.35rem;
+                            @include ellipsis(100%,1);
+                            text-align: left;
+                        }
+                        b {
+                            @include flexbox();
+                            @include flex-direction(column);
+                            .iconfont {
+                                height: 0.25rem;
+                            }
+                            color: #e15755;
+                        }
+                    }
+                    span:last-child {
+                        padding: 0 0.04rem;
+                        width: 100%;
+                        @include ellipsis(100%,1);
+                        height: 0.35rem;
+                        line-height: 0.35rem;
+                        color: #979797;
+                    }
+                    img {
+                        width: 100%;
+                    }
+                }
+                &:nth-child(even) {
+                    padding-left: 0.025rem;
+                }
+                &:nth-child(odd) {
+                    padding-right: 0.025rem;
+                }
             }
         }
     }
-    footer{
+    footer {
         @extend %footer;
-        
     }
 }
+
