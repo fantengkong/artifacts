@@ -10,7 +10,7 @@ SPA.defineView('index',{
 	modules:[{
 		 name:'content',
 		 container:'#m-container',
-		 views:['home','cart','mine'],
+		 views:['home','cart','k-my'],
 		 defaultTag:'home'
 	}],
    

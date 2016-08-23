@@ -4,7 +4,7 @@
 		<ul class="L-ul">
 			<li class="active" action-type='switch' data-name="home"><i class="yo-ico">&#xe614;</i></li>
 			<li action-type='switch' data-name="cart"><i class="yo-ico">&#xe600;</i></li>
-			<li action-type='switch' data-name="mine"><i class="yo-ico">&#xe61b;</i></li>
-	    </ul>
+			<li action-type='switch' data-name="k-my"><i class="yo-ico">&#xe61b;</i></li>
+	  </ul>
 	</footer>
 </div>

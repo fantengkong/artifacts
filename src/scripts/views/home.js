@@ -5,7 +5,7 @@ SPA.defineView('home',{
 		bindEvents:{
 		'show':function(){
 			var mySwiper = new Swiper('.swiper-container',{
-				autoplay: 5000,
+				  autoplay: 5000,
 			    pagination : '.swiper-pagination',
 			    loop:'true'
 			});
