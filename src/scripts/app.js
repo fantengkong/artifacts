@@ -4,4 +4,5 @@ require('./views/index.js');
 require('./views/home.js');
 require('./views/mine.js');
 require('./views/cart.js');
+require('../../mock/mock.js');
 //require('./views/L-index.js');

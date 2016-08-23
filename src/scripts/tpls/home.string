@@ -5,11 +5,13 @@
 		<div>
 		<nav>
 			<div class="swiper-container">
-				  <div class="swiper-wrapper">
-					    <div class="swiper-slide"><img src="/artifacts/images/img/lu1.jpg"/></div>
-					    <div class="swiper-slide"><img src="/artifacts/images/img/lu2.jpg"/></div>
+				  <div class="swiper-wrapper" >
+					    <div class="swiper-slide" ms-repeat-el="livelist"  ms-attr-data-id="el.id">
+					    	<img ms-src="el.imgsrc"  alt=""/>
+					    </div>
+					    <!--<div class="swiper-slide"><img src="/artifacts/images/img/lu2.jpg"/></div>
 					    <div class="swiper-slide"><img src="/artifacts/images/img/lu3.jpg"/></div>
-					    <div class="swiper-slide"><img src="/artifacts/images/img/lu4.jpg"/></div>
+					    <div class="swiper-slide"><img src="/artifacts/images/img/lu4.jpg"/></div>-->
 				  </div>
 			      <div class="swiper-pagination dot"></div>
 			</div>
