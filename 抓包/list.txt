@@ -1,0 +1,226 @@
+{
+	"data": {
+		"bImage": "http://img.qi-wu.com/appTommyBanner/201603/33541456881199660.jpg",
+		"bid": "12",
+		"brand": {
+			"bcid": 9,
+			"bid": 12,
+			"brandAlias": "FIFTYEIGHT PRODUCTS",
+			"brandCulture": " FIFTYEIGHT PRODUCTS是做3D动漫起家的，在2006年的一个节假日，FIFTYEIGHT ANIMATION给用户发了个动漫贺卡给大家送祝福，结果出乎意料的是，这则录像在YOUTUBE上疯传，点击率暴增；后来，FIFTYEIGHT想把虚拟的3D动漫中的人物带到显示生活中，在2007年，克服了现实中的种种困难，第一个TASSEN的陶瓷碗诞生了，和影像相同的是，陶瓷产品也和3D动漫人物一样表情逼真；和3D动漫一样是高质量的100%德国制造的陶瓷产品。",
+			"brandDiscount": 0,
+			"brandMoney": 0,
+			"brandName": "FIFTYEIGHT PRODUCTS",
+			"brandTitle": "FIFTYEIGHT PRODUCTS",
+			"brandUrl": "http://img.qi-wu.com/community/201602/46611454767390160.jpg",
+			"guideImg": "",
+			"state": 1
+		},
+		"listproducrs": [{
+			"childTitle": "贪吃鬼表情碗│TASSEN彩色系列",
+			"collection": 3,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。彩色碗的精心设计营造了更多生活情趣，是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 218,
+			"pcid": 100284,
+			"pid": 1217,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/63651456300436097.jpg"
+		}, {
+			"childTitle": "浓缩咖啡杯-疯狂爱",
+			"collection": 3,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | TASSEN咖啡杯系列,100% 德国制造的手工瓷器Espresso咖啡杯套装，真正的硬瓷，防摔品质。是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 128,
+			"pcid": 100375,
+			"pid": 1308,
+			"price": 128,
+			"proImg1": "http://img.qi-wu.com/product/201603/6771457503986004.jpg"
+		}, {
+			"childTitle": "浓缩咖啡杯-傲娇脸",
+			"collection": 4,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | TASSEN咖啡杯系列,100% 德国制造的手工瓷器Espresso咖啡杯套装，真正的硬瓷，防摔品质。是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 128,
+			"pcid": 100376,
+			"pid": 1309,
+			"price": 128,
+			"proImg1": "http://img.qi-wu.com/product/201603/9451457503675519.jpg"
+		}, {
+			"childTitle": "浓缩咖啡杯-亲亲我",
+			"collection": 4,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | TASSEN咖啡杯系列，100% 德国制造的手工瓷器Espresso咖啡杯套装，真正的硬瓷，防摔品质。是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 128,
+			"pcid": 100374,
+			"pid": 1307,
+			"price": 128,
+			"proImg1": "http://img.qi-wu.com/product/201603/22261457503901285.jpg"
+		}, {
+			"childTitle": "浓缩咖啡杯-小坏笑",
+			"collection": 4,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | TASSEN咖啡杯系列，100% 德国制造的手工瓷器Espresso咖啡杯套装，真正的硬瓷，防摔品质。是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 128,
+			"pcid": 100373,
+			"pid": 1306,
+			"price": 128,
+			"proImg1": "http://img.qi-wu.com/product/201603/49791457503780676.jpg"
+		}, {
+			"childTitle": "小坏笑表情碗│TASSEN白瓷系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。MADE WITH LOVE，独一无二。不仅具有盛物功能亦可用于烤箱或者微波炉。",
+			"originalPrice": 148,
+			"pcid": 100267,
+			"pid": 1200,
+			"price": 148,
+			"proImg1": "http://img.qi-wu.com/product/201602/60731456294003504.jpg"
+		}, {
+			"childTitle": "TASSEN哑光系列│小坏笑表情碗",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。平滑的底部，磨砂的手感。MADE WITH LOVE，独一无二。不仅具有盛物功能亦可用于烤箱或者微波炉。",
+			"originalPrice": 218,
+			"pcid": 100268,
+			"pid": 1201,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/25021456295150160.jpg"
+		}, {
+			"childTitle": "TASSEN白瓷系列│生闷气表情碗",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。MADE WITH LOVE，独一无二。不仅具有盛物功能亦可用于烤箱或者微波炉。",
+			"originalPrice": 148,
+			"pcid": 100270,
+			"pid": 1203,
+			"price": 148,
+			"proImg1": "http://img.qi-wu.com/product/201602/1221456295782972.jpg"
+		}, {
+			"childTitle": "小坏笑表情碗│TASSEN彩色系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。彩色碗的精心设计营造了更多生活情趣，是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 218,
+			"pcid": 100269,
+			"pid": 1202,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/41921456295440238.jpg"
+		}, {
+			"childTitle": "生闷气表情碗│TASSEN哑光系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。平滑的底部，磨砂的手感。MADE WITH LOVE，独一无二。不仅具有盛物功能亦可用于烤箱或者微波炉。",
+			"originalPrice": 218,
+			"pcid": 100271,
+			"pid": 1204,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/74211456296058832.jpg"
+		}, {
+			"childTitle": "生闷气表情碗│TASSEN彩色系列",
+			"collection": 2,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。彩色碗的精心设计营造了更多生活情趣，是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 218,
+			"pcid": 100272,
+			"pid": 1205,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/49711456296276238.jpg"
+		}, {
+			"childTitle": "亲亲我表情碗│TASSEN白瓷系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。MADE WITH LOVE，独一无二。不仅具有盛物功能亦可用于烤箱或者微波炉。",
+			"originalPrice": 148,
+			"pcid": 100273,
+			"pid": 1206,
+			"price": 148,
+			"proImg1": "http://img.qi-wu.com/product/201602/95811456296558426.jpg"
+		}, {
+			"childTitle": "亲亲我表情碗│TASSEN哑光系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。彩色碗的精心设计营造了更多生活情趣，是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 218,
+			"pcid": 100274,
+			"pid": 1207,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/3401456296800113.jpg"
+		}, {
+			"childTitle": "亲亲我表情碗│TASSEN彩色系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。彩色碗的精心设计营造了更多生活情趣，是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 218,
+			"pcid": 100275,
+			"pid": 1208,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/9741456298594441.jpg"
+		}, {
+			"childTitle": "开心脸表情碗│TASSEN白瓷系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。MADE WITH LOVE，独一无二。不仅具有盛物功能亦可用于烤箱或者微波炉。",
+			"originalPrice": 148,
+			"pcid": 100276,
+			"pid": 1209,
+			"price": 148,
+			"proImg1": "http://img.qi-wu.com/product/201602/59541456298850191.jpg"
+		}, {
+			"childTitle": "开心脸表情碗│TASSEN哑光系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。平滑的底部，磨砂的手感。MADE WITH LOVE，独一无二。不仅具有盛物功能亦可用于烤箱或者微波炉。",
+			"originalPrice": 218,
+			"pcid": 100277,
+			"pid": 1210,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/76731456299020504.jpg"
+		}, {
+			"childTitle": "开心脸表情碗│TASSEN彩色系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。彩色碗的精心设计营造了更多生活情趣，是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 218,
+			"pcid": 100278,
+			"pid": 1211,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/84201456299330894.jpg"
+		}, {
+			"childTitle": "疯狂爱表情碗│TASSEN金边系列",
+			"collection": 3,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。圆滑的镀金碗边，这系列碗给您带来贵族的气质。不仅具有盛物功能亦可用于烤箱或者微波炉。",
+			"originalPrice": 228,
+			"pcid": 100279,
+			"pid": 1212,
+			"price": 228,
+			"proImg1": "http://img.qi-wu.com/product/201602/82941456299558754.jpg"
+		}, {
+			"childTitle": "疯狂爱表情碗│TASSEN哑光系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。平滑的底部，磨砂的手感。MADE WITH LOVE，独一无二。不仅具有盛物功能亦可用于烤箱或者微波炉。",
+			"originalPrice": 218,
+			"pcid": 100280,
+			"pid": 1213,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/17611456299751972.jpg"
+		}, {
+			"childTitle": "疯狂爱表情碗│TASSEN彩色系列",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "德国-FIFTYEIGHT PRODUCTS | 100% 德国制造的手工瓷器碗，真正的硬瓷，防摔品质。彩色碗的精心设计营造了更多生活情趣，是馈赠爱人，家人和朋友非常特别的礼物，四季通用。",
+			"originalPrice": 218,
+			"pcid": 100281,
+			"pid": 1214,
+			"price": 218,
+			"proImg1": "http://img.qi-wu.com/product/201602/31981456299911285.jpg"
+		}],
+		"pageSize": 20,
+		"start": 0,
+		"totalPage": 2,
+		"type": 5
+	},
+	"msg": "数据获取成功",
+	"result": "success"
+}
