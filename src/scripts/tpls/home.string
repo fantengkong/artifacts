@@ -1,0 +1,78 @@
+<header>
+		<p>器物</p>
+</header>
+	<div spa-widget="scroll" data-scroll-id="myScroll" class="L-scroll">
+		<div>
+		<nav>
+			<div class="swiper-container">
+				  <div class="swiper-wrapper">
+					    <div class="swiper-slide"><img src="/artifacts/images/img/lu1.jpg"/></div>
+					    <div class="swiper-slide"><img src="/artifacts/images/img/lu2.jpg"/></div>
+					    <div class="swiper-slide"><img src="/artifacts/images/img/lu3.jpg"/></div>
+					    <div class="swiper-slide"><img src="/artifacts/images/img/lu4.jpg"/></div>
+				  </div>
+			      <div class="swiper-pagination dot"></div>
+			</div>
+		</nav>
+		<div class="L-banner">
+			<a href="javascript:;">
+				<img src="/artifacts/images/img/banner.jpg"/>
+			</a>
+		</div>
+		<div class="L-classic">
+			<ul class="L-classicUl">
+
+				
+
+				<li><a href="javascript:;"><img src="/artifacts/images/img/shiqi.png" alt="" /></a><span>食器</span></li>
+				<li><a href="javascript:;"><img src="/artifacts/images/img/tea.png" alt="" /></a><span>茶器</span></li>
+				<li><a href="javascript:;"><img src="/artifacts/images/img/ping.png" alt="" /></a><span>花器</span></li>
+				<li><a href="javascript:;"><img src="/artifacts/images/img/coffee.png" alt="" /></a><span>咖啡</span></li>
+				<li><a href="javascript:;"><img src="/artifacts/images/img/food.png" alt="" /></a><span>储物</span></li>
+				<li><a href="javascript:;"><img src="/artifacts/images/img/decoration.png" alt="" /></a><span>shiwu</span></li>
+				<li><a href="javascript:;"><img src="/artifacts/images/img/wine.png" alt="" /></a><span>酒气</span></li>
+				<li><a href="javascript:;"><img src="/artifacts/images/img/qiu_more.png" alt="" /></a><span>更多</span></li>
+
+			</ul>
+		</div>
+		<p class="L-host">
+			热门产品HOTTEST
+		</p>
+		<ul class="L-hostList">
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+			<li><a href=""><img src="" alt="" /></a><span>￥333</span></li>
+		</ul>
+
+		<div class="L-brand">
+			<a href="javascript:;"><img src="/artifacts/images/img/story.jpg"/></a>
+		</div>
+		<div class="L-brand">
+			<a href="javascript:;"><img src="/artifacts/images/img/boyi.jpg"/></a>
+		</div>
+		<div class="L-brand">
+			<a href="javascript:;"><img src="/artifacts/images/img/rw.jpg"/></a>
+		</div>
+		<ul class="L-brandBox">
+			<li><img src="/artifacts/images/img/tom.jpg"/></li>
+			<li><img src="/artifacts/images/img/segno.jpg"/></li>
+			<li><img src="/artifacts/images/img/th.jpg"/></li>
+		</ul>
+		<div class="L-brand">
+			<a href="javascript:;"><img src='/artifacts/images/img/confrim.jpg'/></a>
+		</div>
+
+	</div>
+	</div>

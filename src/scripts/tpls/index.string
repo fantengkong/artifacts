@@ -1,6 +1,10 @@
 <div class="m-index">
-	<header><i class="yo-ico">&#xe745;</i><ul><li class="active">热点</li><li>关注</li></ul><i class="yo-ico">&#xe684;</i></header>
-	<nav><ul><li>1</li><li class="active">2</li><li>3</li></ul></nav>
-	<section>3</section>
-	<footer>4</footer>
+	<div id="m-container"></div>
+	<footer>
+		<ul class="L-ul">
+			<li class="active" action-type='switch' data-name="home"><i class="yo-ico">&#xe614;</i></li>
+			<li action-type='switch' data-name="cart"><i class="yo-ico">&#xe600;</i></li>
+			<li action-type='switch' data-name="mine"><i class="yo-ico">&#xe61b;</i></li>
+	    </ul>
+	</footer>
 </div>
