@@ -1,0 +1,25 @@
+$base-color: #0dc441;
+%header {
+    height: 0.44rem;
+    @include flexbox();
+    background: $base-color;
+    i {
+        width: 0.44rem;
+        text-align: center;
+        line-height: 0.44rem;
+        font-size: 0.22rem;
+        color: rgba(255, 255, 255, 0.8);
+    }
+}
+@font-face {
+    font-family: yofont;
+    src: url("/footballSNS/images/iconfont/iconfont.woff") format("woff"), url("/footballSNS/images/iconfont/iconfont.ttf") format("truetype");
+}
+@font-face {
+    font-family: yofont;
+    src: url("/footballSNS/images/iconfont/iconfont-menu.woff") format("woff"), url("/footballSNS/images/iconfont/iconfont-menu.ttf") format("truetype");
+}
+@font-face {
+    font-family: yofont;
+    src: url("/footballSNS/images/iconfont/iconfont-back.woff") format("woff"), url("/footballSNS/images/iconfont/iconfont-back.ttf") format("truetype");
+}
