@@ -1,0 +1,35 @@
+<div class="k-register">
+	<header>
+		<span><i class="iconfont" action-type="back">&#xe631;</i></span>
+		<span>手机注册</span>
+		<span></span>
+	</header>
+	<section>
+		<span>器物会员注册</span>
+		<span class="k-r k-ruser"><i class="iconfont">&#xe649;</i><input type="text" placeholder="手机号码" /></span>
+		<span class="k-r k-rcode"><i class="iconfont">&#xe683;</i><input type="text" placeholder="请输入验证码" /><em><button>获取验证码</button></em></span>
+		<span class="k-r k-rpsd"><i class="iconfont">&#xe604;</i><input type="password" placeholder="密码" /></span>
+		<span class="k-r k-rpsd-again"><i class="iconfont">&#xe604;</i><input type="password" placeholder="确认密码" /></span>
+		<span><b>已有账号登录</b></span>
+		<span><button class="k-registerbtn">立即注册</button></span>
+		
+		<!--<div>
+			<img src="/artifacts/images/k-img/qiwulogo.png"/>
+		</div>
+		<div>
+			<img src="/artifacts/images/k-img/qiwuzi.png"/>
+		</div>
+		<div class="k-user"><i class="iconfont">&#xe735;</i><input type="text" placeholder="用户名/手机号/邮箱" /></div>
+		<div class="k-psd"><i class="iconfont">&#xe604;</i><input type="text" placeholder="请输入密码" /></div>
+		
+		<span><i>忘记密码？</i></span>
+		<span><button>登录</button></span>
+		
+		<span><i>其它合作方登录</i></span>
+		<i class="iconfont k-wx">&#x3488;</i>-->
+		
+	</section>
+	
+</div>
+
+

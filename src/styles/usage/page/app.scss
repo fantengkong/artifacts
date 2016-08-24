@@ -1,16 +1,18 @@
 @charset "utf-8";
 
-@import "../core/reset";
-@import "../core/reset";
+
+@import "../core/reset.scss";
 @import "../core/swiper-3.3.1.min.css";
-@import "../layout/m-layout";
+@import "../layout/m-layout.scss";
 //
 //// views
-@import "../core/common";
-@import "../module/m-index";
-@import "../module/home";
-@import "../module/m-search";
+@import "../core/common.scss";
+@import "../module/m-index.scss";
+@import "../module/home.scss";
+@import "../module/m-search.scss";
 
-
+@import "../module/k-login.scss";
+@import "../module/k-register.scss";
+@import "../module/k-my.scss";
 
 

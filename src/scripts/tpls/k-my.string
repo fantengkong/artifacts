@@ -1,0 +1,35 @@
+<div class="k-my">
+	<header>
+		<span><i class="iconfont" action-type="back">&#xe660;</i></span>
+		<span>个人中心</span>
+		<span></span>
+	</header>
+	<section>
+		<div class="k-m-user">
+			<span><img src="/artifacts/images/k-img/k-m-user.png"/></span>
+			<span>华之初</span>
+			<span><i class="iconfont">&#xe62f;</i></span>
+		</div>
+		<div>
+			<i class="iconfont active">&#xe600;</i>
+			<i class="iconfont">&#xe606;</i>
+			<i class="iconfont">&#xe611;</i>
+		</div>
+		<span>我喜欢的</span>
+		<ul <!--style="display: none;"-->>
+			<li>
+				<img src="" alt="" />
+				<span>极简玻璃水壶<i class="iconfont">&#xe600;</i></span>
+				<span>意大利-SEGNO | 意大利托斯</span>
+			</li>
+		</ul>	
+		
+	</section>
+	<footer>
+		<i class="iconfont">&#xe673;</i>
+		<i class="iconfont">&#xe606;</i>
+		<i class="iconfont active">&#xe735;</i>
+	</footer>
+</div>
+
+
