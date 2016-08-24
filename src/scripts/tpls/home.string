@@ -19,6 +19,7 @@
 			<div class="L-banner">
 				<a href="javascript:;" ms-repeat-el="bannerlists">
 					<img ms-src="el.imageurl"/>
+				
 				</a>
 			</div>
 			<div class="L-classic">

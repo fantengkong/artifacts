@@ -25,11 +25,6 @@ SPA.defineView('home',{
 	],
 	bindEvents:{
 		'show':function(){
-			var mySwiper = new Swiper('.swiper-container',{
-				autoplay: 5000,
-			    pagination : '.swiper-pagination',
-			    loop:'true'
-			});
 								// 获得vm
 			  var vm = this.getVM();
 			
@@ -58,6 +53,12 @@ SPA.defineView('home',{
                     vm.text5 = res.data.bannerOtherList2[4].bannerImageList;
 			    }
 			  });
+			var mySwiper = new Swiper('.swiper-container',{
+				autoplay: 5000,
+			    pagination : '.swiper-pagination',
+			    loop:'true'
+			});
+			
 			
 		}
 	}
