@@ -9,6 +9,6 @@ require('./views/k-register.js');
 
 require('./views/home.js');
 require('./views/k-my.js');
-require('./views/cart.js');
+//require('./views/cart.js');
 //require('./views/L-index.js');
-
+require('./views/k-detail.js');
