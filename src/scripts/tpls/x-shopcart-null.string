@@ -1,0 +1,9 @@
+<div class= "x-shopcart-null">
+   <header><span>购物车</span></header>
+   <section>
+   <div><i class="yo-ico">&#xe653;</i></div>	
+   	<div>购物车是空</div>
+   	<div class="btn"><a href="/artifacts/index.html">马上去购物</a></div>
+   </section>
+   <footer></footer>
+</div>

@@ -3,10 +3,169 @@
     height: 100%;
     @include flexbox();
     @include flex-direction(column);
+    color:$base-color1;
+     font-family: "微软雅黑";
     header{
         height: .44rem;
+        background: $base-color; 
         @include flexbox();
-        background:#333;
+        span{
+            height: .44rem;
+            width: .44rem;
+            line-height: .44rem;
+            text-align: center;
+        }
+        span:nth-child(3){
+            font-size:.15rem;
+        }
+        span:nth-child(2){
+            @include flex(1);
+            font-size:.2rem;
+        }
+        
+    }
+    
+    section{
+        @include flex();
+        height: 100%;
+        width:100%;
+        background: $base-color1;
+        color: $base-color;
+        .fahuo{
+            height: .40rem;
+            line-height: .4rem;
+             @include flexbox();
+             color: #D6D6D6;            
+            i{ 
+                text-align: center;
+                height: .40rem;
+                 width:.40rem;
+                line-height: .4rem;
+                font-size: .2rem;
+            }   
+        }
+        ul{
+            width: 100%;
+            height: 100%;
+            li{
+                border-top:1px solid #D6D6D6;
+                 border-bottom:1px solid #D6D6D6;
+                 @include flexbox();
+                height: 1.1rem;
+                width: 100%;
+                background: #EFEFEF;
+                margin-bottom: .06rem;
+                .checkboxs{
+                    @include flexbox();
+                    @include flex-direction(column);
+                    @include justify-content(center);
+                    @include align-items(center);
+                    width: .4rem;
+                    height: 1.1rem;
+//                  line-height: 1.1rem;
+                   em{      
+                    width: .2rem;
+                    height: .2rem;
+                    @include border(1px,$base-color1,solid,.1rem);    
+                    background: #D4B479;
+                   }
+                }
+                .detils{
+                   @include flex();
+                   @include flexbox();
+                   height: 100%;
+                   width:100%;
+                   
+                   .pic{
+                       width: .7rem;
+                       height: 100%;
+                       img{
+                           width: 100%;
+                           height: 100%;
+                       }
+                    }
+                    div{
+                      
+                      color: $base-color;
+                      padding: .12rem;  
+                      .tit{
+                          font-size: .14rem;
+                      } 
+                       .sub-tit{
+                          font-size: .13rem;
+                          color: #666;
+                      } 
+                      .price{
+                          line-height: .3rem;
+                          
+                          del{
+                                  text-decoration: line-through;
+                                  color: #666;
+                          }
+                      }
+                      .num{
+                          @include flexbox();
+                          span{
+                              width: .2rem;
+                              height: .2rem;
+                              text-align: center;
+                              line-height: .2rem;
+                              @include border();
+                              
+                              border-radius: .1rem .1rem ;
+                              ;
+                          }
+                      }
+                   }
+                }
+            }
 
+        }
+    }//section end
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    div.check{
+            height: .44rem;
+            @include flexbox();
+            @include align-items(center);
+            background:$base-color;
+            line-height: .44rem;
+            span{
+              font-size: .155rem;
+           }
+           span:nth-child(1){
+           margin:  .06rem;
+           padding: 0 .15rem;  
+           height: .26rem;
+           line-height: .26rem;
+           text-align: center;
+           @include border(1px,$base-color1,solid,.1rem);    
+        }
+        span:nth-child(2){
+            @include flex();
+            text-align: center;
+             font-size: .14rem;
+             color: #c6c6c6;
+        }
+        span:nth-child(3){
+            width: .75rem;
+            height: .44rem;
+            text-align: center;
+            background: #d1b47a;
+           
+        }
+    }
+    footer{
+        height: .44rem;
+        background: $base-color1; 
     }
 }

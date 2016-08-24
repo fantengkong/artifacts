@@ -1,4 +1,6 @@
-$base-color: #0dc441;
+$base-color: #333;
+$base-color1:#fff;
+
 
 @font-face {
   font-family: yofont;
@@ -7,5 +9,14 @@ $base-color: #0dc441;
 
 @font-face {
   font-family: yofont;
-  src: url("/artifacts/images/iconfont/iconfont-menu.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-menu.ttf") format("truetype");
+  src: url("/artifacts/images/iconfont/iconfont-menu.woff") format("woff"),
+  url("/artifacts/images/iconfont/iconfont-menu.ttf") format("truetype");
+}
+@font-face {
+font-family: yofont;
+src: url("/artifacts/images/iconfont/iconfont-fahuo.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-fahuo.ttf") format("truetype");
+}
+@font-face {
+font-family: yofont;
+src: url("/artifacts/images/iconfont/iconfont-cart.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-cart.ttf") format("truetype");
 }

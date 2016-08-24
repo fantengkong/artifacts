@@ -1,10 +1,43 @@
 <div class="x-shopcart">
-  <header>购物车</header>
-  <table>
-  	dddddddddd
-  </table>
+      <header><span></span><span>购物车</span><span>编辑</span></header>
+ <section class="cart">
+		 	<div  class="goods">
+		 		<span class="fahuo"><i class=" yo-ico">&#xe674;</i>宁波保税区发货</span>
+		 		<ul >
+		 			<li class="goods-item">
+		 				 <span class="checkboxs"><em></em></span>
+		 				<div class="detils" >
+		 					<p class="pic"><img src="/artifacts/images/goods.png"></p>
+		 					  <div class="goods-list">
+				 						<p class="tit">玻璃水壶</p>
+				 						<p  class="sub-tit">玻璃水壶</p>
+				 						<p class="price">￥534.6 <del>￥534.6</del></p>
+				 						<p class="num"><span class="reduce">-</span><span>3</span><span class="add">+</span></p>
+		 					  </div>
+		 				</div>
+		 			</li>
+		 			<li class="goods-item">
+		 				 <span class="checkboxs"><em></em></span>
+		 				<div class="detils" >
+		 					<p class="pic"><img src="/artifacts/images/goods.png"></p>
+		 					  <div class="goods-list">
+				 						<p class="tit">玻璃水壶</p>
+				 						<p  class="sub-tit">玻璃水壶</p>
+				 						<p class="price">￥144.6 <del>￥154.6</del></p>
+				 						<p class="num"><span class="reduce">-</span><span>1</span><span class="add">+</span></p>
+		 					  </div>
+		 				</div>
+		 			</li>
+		 			
+		 		</ul>
+		 	</div>
+ </section>
   
-  <footer>
-  	
-  </footer>
+  <div class="check">
+	  	<span class="check-all">全选</span>
+	  	<span >总价：<i class="prices-total">234.5</i></span>
+	  	<span>结算</span>
+  </div>
+  
+  <footer></footer>
 </div>
