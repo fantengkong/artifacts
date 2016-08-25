@@ -1,4 +1,6 @@
+
 $base-color: #dabb7e;
+$base-color1:#fff;
 %footer{
     height: .44rem;
     @include flexbox();
@@ -24,6 +26,11 @@ $base-color: #dabb7e;
 
     font-family: yofont;
     src: url("/artifacts/images/iconfont/iconfont-menu.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-menu.ttf") format("truetype");
+
+
+
+
+
 
 }
 @font-face {
@@ -56,6 +63,17 @@ $base-color: #dabb7e;
 }
 @font-face {
   font-family: yofont;
+
   src: url("/artifacts/images/iconfont/iconfont-index.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-index.ttf") format("truetype");
 
 }
+
+@font-face {
+font-family: yofont;
+src: url("/artifacts/images/iconfont/iconfont-fahuo.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-fahuo.ttf") format("truetype");
+}
+@font-face {
+font-family: yofont;
+src: url("/artifacts/images/iconfont/iconfont-cart.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-cart.ttf") format("truetype");
+}
+

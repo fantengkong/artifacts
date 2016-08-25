@@ -1,39 +1,37 @@
-body{
+body {
     background: #FFFFFF;
 }
-.m-index{
+.m-index {
     width: 100%;
     height: 100%;
     @include flexbox();
     @include flex-direction(column);
     background: #FFFFFF!important;
-    
-
-      footer {
-        height: .43rem;
+    footer {
+        height: 0.43rem;
         background: #FFFFFF;
         display: flex;
         z-index: 9999;
-        ul{
+        ul {
             width: 100%;
             @include flexbox();
             @include justify-content(center);
-            li{
-                 @include flex();
-                 text-align: center;
-                 line-height: .43rem;
-                 font-size: .28rem;
-                 color: #999999;
-                 line-height: .38rem;
-                 font-size: .28rem;
-                 color: #444;
-                 box-sizing: border-box;
-                 border-top:.03rem solid #FFFFFF ;
-                 &.active{
-                     color: #dabb7e;
-                     border-top:.03rem solid #dabb7e ;
-                 }
+            li {
+                @include flex();
+                text-align: center;
+                line-height: 0.43rem;
+                font-size: 0.28rem;
+                color: #999999;
+                line-height: 0.38rem;
+                font-size: 0.28rem;
+                color: #444;
+                box-sizing: border-box;
+                border-top: 0.03rem solid #FFFFFF;
+                &.active {
+                    color: #dabb7e;
+                    border-top: 0.03rem solid #dabb7e;
+                }
             }
         }
-      }
+    }
 }
