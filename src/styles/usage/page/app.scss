@@ -1,16 +1,23 @@
 @charset "utf-8";
 
 @import "../core/reset";
-@import "../core/reset";
 @import "../core/swiper-3.3.1.min.css";
 @import "../layout/m-layout";
-//
-//// views
+
 @import "../core/common";
 @import "../module/m-index";
 @import "../module/home";
-@import "../module/m-search";
 
 
+@import "../module/k-login";
+@import "../module/k-register";
+@import "../module/k-my";
+
+
+@import "../module/x-shopcart";
+//@import "../module/x-shopcart-null";
+
+@import "../module/k-list";
+@import "../module/k-detail";
 
 

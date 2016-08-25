@@ -1,0 +1,11 @@
+<div class="m-detail">
+	<header>
+		<i class="iconfont" action-type="back">&#xe631;</i>
+		<span ms-text="detail.childTitle">ddddddd</span>
+		<i></i>
+	</header>
+	<section>
+		<img ms-src="detail.proImg1" width="100" height="100" />
+		<p ms-text="detail.introduction"></p>
+	</section>
+</div>

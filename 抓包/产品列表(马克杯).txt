@@ -1,0 +1,280 @@
+{
+	"data": {
+		"bImage": "http://img.qi-wu.com/appTommyBanner/201603/96971458704235693.jpg",
+		"listproducrs": [{
+			"childTitle": "经典款纯铜马克杯 | R&W",
+			"collection": 9,
+			"fav": 1,
+			"introduction": "日本-织田幸铜器 | 此款马克杯采用红铜材质纯手工打制，恰到好处的尺寸，既可用作日常通勤杯，漱口杯，亦可用于制作夏日冰饮莫吉托。简约的线条，没有一丝多余的设计。【使用后用水或者温水冲洗，用中性洗涤剂。避免用金属韦斯等硬物。清洗后留存水滴在里面，会引起斑点等，用干布擦干存放。洗碗机和干燥机都不要用。饮品有留存长期摆放，会引起剥落和绿色。请注意使用。和其他金属制品同样，清洗时要轻柔，同时保持十分干燥。】",
+			"originalPrice": 459,
+			"pcid": 100237,
+			"pid": 1170,
+			"price": 367,
+			"proImg1": "http://img.qi-wu.com/product/201602/81271455937587441.jpg"
+		}, {
+			"childTitle": "亚光面Moscow Mule酒杯 | R&W",
+			"collection": 3,
+			"fav": 1,
+			"introduction": "日本-织田幸铜器 | 这款酒杯以红铜作为原材料，由当地匠人纯手工打制而成，杯子本身具有极强的传导性，可使整杯酒瞬间达到相同温度，亦可减缓冰块的融化速度，从而相对长久的保持冰镇酒的最佳口感。【使用后用水或者温水冲洗，用中性洗涤剂。避免用金属韦斯等硬物。清洗后留存水滴在里面，会引起斑点等，用干布擦干存放。洗碗机和干燥机都不要用。饮品有留存长期摆放，会引起剥落和绿色。请注意使用。和其他金属制品同样，清洗时要轻柔，同时保持十分干燥。】",
+			"originalPrice": 389,
+			"pcid": 100238,
+			"pid": 1171,
+			"price": 311,
+			"proImg1": "http://img.qi-wu.com/product/201602/98601456393872691.jpg"
+		}, {
+			"childTitle": "带柄哑光面冰咖啡杯 | R&W",
+			"collection": 8,
+			"fav": 1,
+			"introduction": "日本-织田幸铜器 | 在温度越低的容器中，便愈能感受到冰咖啡带来的香气。这款杯子以红铜作为原材料，因为铜具有极强的传导性，可瞬间使整杯饮品达到相同温度，从而减缓杯中冰块的融化速度，能相对长久的保持冰饮的口感。【使用后用水或者温水冲洗，用中性洗涤剂。避免用金属韦斯等硬物。清洗后留存水滴在里面，会引起斑点等，用干布擦干存放。洗碗机和干燥机都不要用。饮品有留存长期摆放，会引起剥落和绿色。请注意使用。和其他金属制品同样，清洗时要轻柔，同时保持十分干燥。】",
+			"originalPrice": 480,
+			"pcid": 100239,
+			"pid": 1172,
+			"price": 384,
+			"proImg1": "http://img.qi-wu.com/product/201602/67611456393719535.jpg"
+		}, {
+			"childTitle": "管状铜质花插",
+			"collection": 3,
+			"fav": 1,
+			"introduction": "日本-R&W | 此款铜质小花插由日本匠人纯手工打造，可单独悬挂，亦可配合花瓶使用，放入水中可释放出铜离子，具有杀菌、防止水质腐败的作用，更重要的是可延长鲜花的保鲜时间。",
+			"originalPrice": 378,
+			"pcid": 100319,
+			"pid": 1252,
+			"price": 302,
+			"proImg1": "http://img.qi-wu.com/product/201602/83181456394271113.jpg"
+		}, {
+			"childTitle": "铜质叶子",
+			"collection": 4,
+			"fav": 1,
+			"introduction": "日本-R&W | 此款仿真铜质叶子由日本匠人纯手工打造，放入水中可释放出铜离子，具有杀菌、防止水质腐败的作用，更重要的是可延长鲜花的保鲜时间。",
+			"originalPrice": 115,
+			"pcid": 100320,
+			"pid": 1253,
+			"price": 92,
+			"proImg1": "http://img.qi-wu.com/product/201602/53101456395454597.jpg"
+		}, {
+			"childTitle": "Moscow Mule酒杯（锤纹）",
+			"collection": 5,
+			"fav": 1,
+			"introduction": "日本-R&W | 这款酒杯以红铜作为原材料，表面锤纹由匠人亲手打制，具有极强的传导性，可使整杯酒瞬间达到相同温度，亦可减缓冰块的融化速度，从而相对长久的保持冰镇酒的最佳口感。【使用后用水或者温水冲洗，用中性洗涤剂。避免用金属韦斯等硬物。清洗后留存水滴在里面，会引起斑点等，用干布擦干存放。洗碗机和干燥机都不要用。饮品有留存长期摆放，会引起剥落和绿色。请注意使用。和其他金属制品同样，清洗时要轻柔，同时保持十分干燥。】",
+			"originalPrice": 389,
+			"pcid": 100321,
+			"pid": 1254,
+			"price": 311,
+			"proImg1": "http://img.qi-wu.com/product/201602/56911456397229894.jpg"
+		}, {
+			"childTitle": "带柄冰咖啡杯（锤纹）",
+			"collection": 2,
+			"fav": 1,
+			"introduction": "日本-R&W | 在温度越低的容器中，便愈能感受到冰咖啡带来的香气。这款杯子以红铜作为原材料，表面锤纹由匠人亲手打制，因为铜具有极强的传导性，可瞬间使整杯饮品达到相同温度，从而减缓杯中冰块的融化速度，能相对长久的保持冰饮的口感。【使用后用水或者温水冲洗，用中性洗涤剂。避免用金属韦斯等硬物。清洗后留存水滴在里面，会引起斑点等，用干布擦干存放。洗碗机和干燥机都不要用。饮品有留存长期摆放，会引起剥落和绿色。请注意使用。和其他金属制品同样，清洗时要轻柔，同时保持十分干燥。】",
+			"originalPrice": 480,
+			"pcid": 100322,
+			"pid": 1255,
+			"price": 384,
+			"proImg1": "http://img.qi-wu.com/product/201602/57871456397653238.jpg"
+		}, {
+			"childTitle": "不规则金属托盘-黄铜色",
+			"collection": 3,
+			"fav": 1,
+			"introduction": "印度-Devi Design | 不规则形状，手工敲打的铜制托盘，适合放坚果和糕点等。",
+			"originalPrice": 188,
+			"pcid": 100385,
+			"pid": 1318,
+			"price": 188,
+			"proImg1": "http://img.qi-wu.com/product/201603/5811457351110566.jpg"
+		}, {
+			"childTitle": "不规则金属托盘-玫瑰金",
+			"collection": 5,
+			"fav": 1,
+			"introduction": "印度-Devi Design | 不规则形状，手工敲打的铜制托盘，适合放坚果和糕点等",
+			"originalPrice": 120,
+			"pcid": 100386,
+			"pid": 1319,
+			"price": 120,
+			"proImg1": "http://img.qi-wu.com/product/201603/20371457351786519.jpg"
+		}, {
+			"childTitle": "不规则金属托盘-银色",
+			"collection": 2,
+			"fav": 1,
+			"introduction": "印度-Devi Design | 不规则形状，手工敲打的铜制托盘，适合放坚果和糕点等。",
+			"originalPrice": 308,
+			"pcid": 100387,
+			"pid": 1320,
+			"price": 308,
+			"proImg1": "http://img.qi-wu.com/product/201603/43991457352157816.jpg"
+		}, {
+			"childTitle": "DEVI DESIGN 几何金属置物碗（大）",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "印度-Devi Design | 立体几何的造型，与黄铜的融合，带着浓浓的现当代艺术的气息，依稀可见毕加索立体派画风。线条干练有力，手工材质更是增添其中的韵味。",
+			"originalPrice": 648,
+			"pcid": 100391,
+			"pid": 1324,
+			"price": 648,
+			"proImg1": "http://img.qi-wu.com/product/201603/49341457353953801.jpg"
+		}, {
+			"childTitle": "几何金属置物碗-小",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "印度-Devi Design | 立体几何的造型，与黄铜的融合，带着浓浓的现当代艺术的气息，依稀可见毕加索立体派画风。线条干练有力，手工材质更是增添其中的韵味。",
+			"originalPrice": 98,
+			"pcid": 100392,
+			"pid": 1325,
+			"price": 98,
+			"proImg1": "http://img.qi-wu.com/product/201603/26951457354235551.jpg"
+		}, {
+			"childTitle": "几何金属置物碗-中",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "印度-Devi Design | 立体几何的造型，与黄铜的融合，带着浓浓的现当代艺术的气息，依稀可见毕加索立体派画风。线条干练有力，手工材质更是增添其中的韵味。",
+			"originalPrice": 248,
+			"pcid": 100393,
+			"pid": 1326,
+			"price": 248,
+			"proImg1": "http://img.qi-wu.com/product/201603/75541457354547644.jpg"
+		}, {
+			"childTitle": "金属香蕉纸镇",
+			"collection": 2,
+			"fav": 1,
+			"introduction": "印度-Devi Design | 香蕉的柔软质地，与金属坚硬材质的碰撞。有极强的视觉冲击，又带着一丝逗趣灵巧的味道。",
+			"originalPrice": 238,
+			"pcid": 100394,
+			"pid": 1327,
+			"price": 238,
+			"proImg1": "http://img.qi-wu.com/product/201603/79311457354791347.jpg"
+		}, {
+			"childTitle": "树叶纹铜制杯垫",
+			"collection": 3,
+			"fav": 1,
+			"introduction": "印度-DEVI DESIGN | 树叶形的铜质托盘，可做杯垫，外形通过手工匠人们的敲击打磨之下及其生动，树叶的脉络依稀可见。",
+			"originalPrice": 68,
+			"pcid": 100396,
+			"pid": 1329,
+			"price": 68,
+			"proImg1": "http://img.qi-wu.com/product/201603/97451457355259504.jpg"
+		}, {
+			"childTitle": "圆球款研磨器",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | 此款研磨器出自Tom Dixon2013年推出的Stone系列，以简洁大气的白色天然大理石为主题，点缀以黄铜的高雅气息，成就了经典与复古兼具的美感。可用于香料、调味粉末等的处理，用细腻的手作，精心调配美味佳肴。",
+			"originalPrice": 850,
+			"pcid": 100408,
+			"pid": 1341,
+			"price": 850,
+			"proImg1": "http://img.qi-wu.com/product/201603/72201457405902394.jpg"
+		}, {
+			"childTitle": "大理石研磨器",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | 此款砧板出自Tom Dixon2013年推出的Stone系列，以简洁大气的白色天然大理石为主题，点缀以黄铜的高雅气息，成就了经典与复古兼具的美感。可用于香料、调味粉末等的处理，用细腻的手作，精心调配美味佳肴。",
+			"originalPrice": 1780,
+			"pcid": 100409,
+			"pid": 1342,
+			"price": 1780,
+			"proImg1": "http://img.qi-wu.com/product/201603/13041457406241566.jpg"
+		}, {
+			"childTitle": "黄铜水壶",
+			"collection": 2,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | 纯黄铜手工打造的灯塔造型壶体搭配胶木制手把，美观的同时在实用性上也有周全的考虑。可用于盛放咖啡、茶饮和酒，壶口设计呈三角形，亦能有效防止使用器物时液体溅出或四处流淌。【小常识：1、洗净擦干，于干燥环境下放置；2、清洗时请使用质地柔软的工具，温柔对待】",
+			"originalPrice": 1180,
+			"pcid": 100411,
+			"pid": 1344,
+			"price": 1180,
+			"proImg1": "http://img.qi-wu.com/product/201603/75531457415530879.jpg"
+		}, {
+			"childTitle": "黄铜茶壶",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | 异域、古旧似乎是黄铜天生的气质，手工揑制的黄铜外涂有一层亮光漆保护，有效避免因频繁使用茶壶造成的金属氧化，永葆光鲜。跟随它，让品茶成为诗情画意的娱乐，自我实现的方法。【小常识：1、洗净擦干，于干燥环境下放置；6、清洗时请使用质地柔软的工具，温柔对待】",
+			"originalPrice": 1680,
+			"pcid": 100412,
+			"pid": 1345,
+			"price": 1680,
+			"proImg1": "http://img.qi-wu.com/product/201603/35731457416198066.jpg"
+		}, {
+			"childTitle": "Tom Dixon醒酒器",
+			"collection": 2,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | TANK系列镀铜醒酒器，采用锥形烧瓶造型，即便是最日常的水瓶，也绝不能无趣。该系列玻璃器皿，每一个皆为人工吹制，配合以恰当好处的手绘黄铜装饰，以最传统的制作方式打造最别具一格的作品。",
+			"originalPrice": 1180,
+			"pcid": 100457,
+			"pid": 1390,
+			"price": 1180,
+			"proImg1": "http://img.qi-wu.com/product/201603/86951457689411144.jpg"
+		}, {
+			"childTitle": "镀铜玻璃花瓶",
+			"collection": 2,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | TANK系列镀铜花瓶出自伦敦设计师，独特的轮廓十分适合摆放长颈类鲜花。该系列玻璃器皿，每一个皆为人工吹制，配合以恰当好处的手绘黄铜装饰，以最传统的制作方式打造最别具一格的作品。",
+			"originalPrice": 980,
+			"pcid": 100458,
+			"pid": 1391,
+			"price": 980,
+			"proImg1": "http://img.qi-wu.com/product/201603/66151457689694847.jpg"
+		}, {
+			"childTitle": "黄铜托盘",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | 下午茶的重要角色，精致小点、茶酒的最佳摆放场所，它的出场总是夹杂着优雅、甜蜜和喜悦。这款托盘是下午茶系列中装饰性最强的一只，稳固坚实的盘底，层层叠起的盘边，增添了充满想象力的点缀。【小常识：1、洗净擦干，于干燥环境下放置；2、清洗时请使用质地柔软的工具，温柔对待】",
+			"originalPrice": 1780,
+			"pcid": 100473,
+			"pid": 1406,
+			"price": 1780,
+			"proImg1": "http://img.qi-wu.com/product/201603/98461457700778144.jpg"
+		}, {
+			"childTitle": "天然大理石砧板",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | 此款砧板出自Tom Dixon2013年推出的Stone系列，以简洁大气的白色天然大理石为主题，点缀以黄铜的高雅气息，成就了经典与复古兼具的美感。",
+			"originalPrice": 780,
+			"pcid": 100474,
+			"pid": 1407,
+			"price": 780,
+			"proImg1": "http://img.qi-wu.com/product/201603/11281457701068269.jpg"
+		}, {
+			"childTitle": "Tom Dixon黄铜茶叶罐",
+			"collection": 0,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | 线条简约流畅，却又带着一丝与众不同，每一片茶叶都能在其中享受阴凉干燥的贮存环境，它延长的不仅是茶叶的保质期，更是品味的新鲜度。【小常识：1、洗净擦干，于干燥环境下放置；5、清洗时请使用质地柔软的工具，温柔对待】",
+			"originalPrice": 720,
+			"pcid": 100481,
+			"pid": 1414,
+			"price": 720,
+			"proImg1": "http://img.qi-wu.com/product/201603/72941458026437129.jpg"
+		}, {
+			"childTitle": "黄铜玻璃高球杯",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | TANK系列镀铜高球杯，专为加冰软饮料、加水饮用酒类设计。该系列玻璃器皿，每一个皆为人工吹制，配合以恰当好处的手绘黄铜装饰，以最传统的制作方式打造最别具一格的作品。",
+			"originalPrice": 680,
+			"pcid": 100558,
+			"pid": 1491,
+			"price": 680,
+			"proImg1": "http://img.qi-wu.com/product/201603/44311458530038740.jpg"
+		}, {
+			"childTitle": "黄铜玻璃短饮杯",
+			"collection": 1,
+			"fav": 1,
+			"introduction": "英国-TOM DIXON | TANK系列镀铜短饮杯，用于盛载加冰块的烈性酒，与威士忌和鸡尾酒绝配。该系列玻璃器皿，每一个皆为人工吹制，配合以恰当好处的手绘黄铜装饰，以最传统的制作方式打造最别具一格的作品。",
+			"originalPrice": 600,
+			"pcid": 100559,
+			"pid": 1492,
+			"price": 600,
+			"proImg1": "http://img.qi-wu.com/product/201605/62091463362623902.jpg"
+		}],
+		"tommyBanner2Image": {
+			"bid": 8,
+			"category": "",
+			"endtime": 1624483200000,
+			"firstcat": "",
+			"id": 29,
+			"imagetitle": "咖啡",
+			"imageurl": "http://img.qi-wu.com/appTommyBanner/201603/96971458704235693.jpg",
+			"keywords": "",
+			"pids": "100322|100321|100320|100319|100239|100238|100237|100387|100386|100385|100449|100448|100447|100446|100445|100444|100411|100412|100457|100458|100473|100474|100481|100558|100559|100409|100408|100396|100394|100393|100392|100391",
+			"starttime": 1544448000000
+		}
+	},
+	"msg": "数据获取成功",
+	"result": "success"
+}

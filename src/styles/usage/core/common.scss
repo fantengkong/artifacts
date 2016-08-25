@@ -1,15 +1,95 @@
-$base-color: #0dc441;
 
-@font-face {
-  font-family: yofont;
-  src: url("/artifacts/images/iconfont/iconfont.woff") format("woff"), url("/artifacts/images/iconfont/iconfont.ttf") format("truetype");
+$base-color: #dabb7e;
+$base-color1:#fff;
+%footer{
+    height: .44rem;
+    @include flexbox();
+    background: #fff;
+    i{
+        @include flex();
+        text-align: center;
+        line-height: .44rem;
+        font-size: .3rem;
+        color: #999;
+        &.active{
+            color: $base-color;
+            @include border(3px 0 0 0,$base-color);
+            
+        }   
+    }
 }
+%header {
+    height: 0.44rem;
+    @include flexbox();
+    background: $base-color;
+    i {
+        width: 0.44rem;
+        text-align: center;
+        line-height: 0.44rem;
+        font-size: 0.22rem;
+        color: rgba(255, 255, 255, 0.8);
+    }
+}
+@font-face {
+    font-family: yofont;
+    src: url("/artifacts/images/iconfont/iconfont.woff") format("woff"), url("/artifacts/images/iconfont/iconfont.ttf") format("truetype");
+}
+@font-face {
 
+    font-family: yofont;
+    src: url("/artifacts/images/iconfont/iconfont-menu.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-menu.ttf") format("truetype");
+
+
+
+
+
+
+}
 @font-face {
-  font-family: yofont;
-  src: url("/artifacts/images/iconfont/iconfont-menu.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-menu.ttf") format("truetype");
+
+    font-family: 'iconfont';
+    src: url("/artifacts/images/iconfont/iconfont-k-register.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-k-register.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'iconfont';
+    src: url("/artifacts/images/iconfont/iconfont-k-login.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-k-login.ttf") format("truetype");
+}
+@font-face {
+
+    font-family: 'iconfont';
+    src: url("/artifacts/images/iconfont/iconfont-k-my.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-k-my.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'iconfont';
+    src: url("/artifacts/images/iconfont/iconfont-k-m-nav.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-k-m-nav.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'iconfont';
+    src: url("/artifacts/images/iconfont/iconfont-back.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-back.ttf") format("truetype");
+}
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+
+
 }
 @font-face {
   font-family: yofont;
+
   src: url("/artifacts/images/iconfont/iconfont-index.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-index.ttf") format("truetype");
+
 }
+
+@font-face {
+font-family: yofont;
+src: url("/artifacts/images/iconfont/iconfont-fahuo.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-fahuo.ttf") format("truetype");
+}
+@font-face {
+font-family: yofont;
+src: url("/artifacts/images/iconfont/iconfont-cart.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-cart.ttf") format("truetype");
+}
+
