@@ -1,8 +1,8 @@
 module.exports = {
   rules: [
     {
-      pattern: /\/api\/goodslist\.php\?type=more\&pageNo=1/,
-      respondwith: './goodslist.json'
-    },
-    ]
- }
+      pattern: /\/api\/L-indexTop\.php\?type=more\&pageNo=1/,
+      respondwith: './L-indexTop.json'
+    }
+  ]
+};
