@@ -1,63 +1,62 @@
 <header>
-		<p>器物</p>
+	<p>器物</p>
 </header>
-	<div spa-widget="scroll" data-scroll-id="myScroll" class="L-scroll">
-		<div>
-			<nav>
-				<div class="swiper-container">
-					  <div class="swiper-wrapper">
-						    <div class="swiper-slide"  ms-repeat-el="bannerlist">
-						    	<img ms-src="el.imageurl"  alt=""/>
-						    </div>
-						    <!--<div class="swiper-slide"><img src="/artifacts/images/img/lu2.jpg"/></div>
-						    <div class="swiper-slide"><img src="/artifacts/images/img/lu3.jpg"/></div>
-						    <div class="swiper-slide"><img src="/artifacts/images/img/lu4.jpg"/></div>-->
-					  </div>
-				      <div class="swiper-pagination dot"></div>
+<div spa-widget="scroll" data-scroll-id="myScroll" class="L-scroll">
+	<div>
+		<nav>
+			<div class="swiper-container">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide" ms-repeat-el="bannerlist" action-type="goto.list">
+						<img ms-src="el.imageurl" alt="" />
+					</div>
 				</div>
-			</nav>
-			<div class="L-banner">
-				<a href="javascript:;" ms-repeat-el="bannerlists">
-					<img ms-src="el.imageurl"/>
-				</a>
+				<div class="swiper-pagination dot"></div>
 			</div>
-			<div class="L-classic">
-				<ul class="L-classicUl">
-					<li ms-repeat-el="list"><a href="javascript:;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.names"></span></li>
-					<!--<li><a href="javascript:;"><img src="/artifacts/images/img/tea.png" alt="" /></a><span>茶器</span></li>
-					<li><a href="javascript:;"><img src="/artifacts/images/img/ping.png" alt="" /></a><span>花器</span></li>
-					<li><a href="javascript:;"><img src="/artifacts/images/img/coffee.png" alt="" /></a><span>咖啡</span></li>
-					<li><a href="javascript:;"><img src="/artifacts/images/img/food.png" alt="" /></a><span>储物</span></li>
-					<li><a href="javascript:;"><img src="/artifacts/images/img/decoration.png" alt="" /></a><span>shiwu</span></li>
-					<li><a href="javascript:;"><img src="/artifacts/images/img/wine.png" alt="" /></a><span>酒气</span></li>-->
-					<li><a href="javascript:;"><img src="/artifacts/images/img/qiu_more.png" alt="" /></a><span>更多</span></li>
-				</ul>
-			</div>
-			<p class="L-host">
-				热门产品HOTTEST
-			</p>
-			<ul class="L-hostList">
-				<li ms-repeat-el="hot1"><a href="javascript;;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.originalPrice"></span></li>
-				<li ms-repeat-el="hot2"><a href="javascript;;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.originalPrice"></span></li>
-				<li ms-repeat-el="hot3"><a href="javascript;;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.originalPrice"></span></li>
-				<li ms-repeat-el="hot4"><a href="javascript;;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.originalPrice"></span></li>
-				<li ms-repeat-el="hot5"><a href="javascript;;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.originalPrice"></span></li>
+		</nav>
+		<div class="L-banner">
+			<a href="javascript:;" ms-repeat-el="bannerlists">
+				<img ms-src="el.imageurl" />
+			</a>
+		</div>
+		<div class="L-classic">
+			<ul class="L-classicUl">
+				<li ms-repeat-el="list">
+					<a href="javascript:;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.names"></span>
+				</li>
+				<li>
+					<a href="javascript:;"><img src="/artifacts/images/img/qiu_more.png" alt="" /></a><span>更多</span>
+				</li>
 			</ul>
-			<div class="L-brand" ms-repeat-el="text1">
-				<a href="javascript:;"><img ms-src="el.imageurl"/></a>
-			</div>
-			<div class="L-brand" ms-repeat-el="text2">
-				<a href="javascript:;"><img ms-src="el.imageurl"/></a>
-			</div>
-			<div class="L-brand" ms-repeat-el="text3">
-				<a href="javascript:;"><img ms-src="el.imageurl"/></a>
-			</div>
-			<ul class="L-brandBox">
-				<li ms-repeat-el="text4"><img ms-src="el.imageurl"/></li>
-				
-			</ul>
-			<div class="L-brand" ms-repeat-el="text5">
-				<a href="javascript:;"><img ms-src="el.imageurl"/></a>
-			</div>
+		</div>
+		<p class="L-host">
+			热门产品HOTTEST
+		</p>
+		<ul class="L-hostList">
+			<li ms-repeat-el="hot1">
+				<a href="javascript;;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.originalPrice"></span></li>
+			<li ms-repeat-el="hot2">
+				<a href="javascript;;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.originalPrice"></span></li>
+			<li ms-repeat-el="hot3">
+				<a href="javascript;;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.originalPrice"></span></li>
+			<li ms-repeat-el="hot4">
+				<a href="javascript;;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.originalPrice"></span></li>
+			<li ms-repeat-el="hot5">
+				<a href="javascript;;"><img ms-src="el.imgurl" alt="" /></a><span ms-text="el.originalPrice"></span></li>
+		</ul>
+		<div class="L-brand" ms-repeat-el="text1">
+			<a href="javascript:;"><img ms-src="el.imageurl" /></a>
+		</div>
+		<div class="L-brand" ms-repeat-el="text2">
+			<a href="javascript:;"><img ms-src="el.imageurl" /></a>
+		</div>
+		<div class="L-brand" ms-repeat-el="text3">
+			<a href="javascript:;"><img ms-src="el.imageurl" /></a>
+		</div>
+		<ul class="L-brandBox">
+			<li ms-repeat-el="text4"><img ms-src="el.imageurl" /></li>
+		</ul>
+		<div class="L-brand" ms-repeat-el="text5">
+			<a href="javascript:;"><img ms-src="el.imageurl" /></a>
+		</div>
 	</div>
-	</div>
+</div>

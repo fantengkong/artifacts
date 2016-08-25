@@ -18,6 +18,18 @@ $base-color1:#fff;
         }   
     }
 }
+%header {
+    height: 0.44rem;
+    @include flexbox();
+    background: $base-color;
+    i {
+        width: 0.44rem;
+        text-align: center;
+        line-height: 0.44rem;
+        font-size: 0.22rem;
+        color: rgba(255, 255, 255, 0.8);
+    }
+}
 @font-face {
     font-family: yofont;
     src: url("/artifacts/images/iconfont/iconfont.woff") format("woff"), url("/artifacts/images/iconfont/iconfont.ttf") format("truetype");

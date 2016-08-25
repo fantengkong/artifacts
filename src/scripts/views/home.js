@@ -37,6 +37,12 @@ SPA.defineView('home',{
 	      }
 	    }
 	],
+	bindActions: {
+		'goto.list': function() {
+			SPA.open('k-list');
+		},
+
+	},
 	bindEvents:{
 		'show':function(){
 			// 获得vm

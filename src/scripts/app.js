@@ -7,5 +7,7 @@ require('./views/k-register.js');
 
 require('./views/home.js');
 require('./views/k-my.js');
+require('./views/k-list.js');
 require('./views/x-shopcart.js');
+require('./views/k-detail.js');
 //require('./views/x-shopcart-null.js');
