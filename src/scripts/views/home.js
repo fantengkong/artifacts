@@ -57,7 +57,7 @@ SPA.defineView('home',{
 			      pageNo: 1
 			    },
 			    success: function (res) {
-			        console.log(res.data.bannerOtherList1)
+//			        console.log(res.data.bannerOtherList1)
 			        vm.bannerlist = res.data.banerImgList;
                     vm.bannerlists = res.data.bannerOtherList1[0].bannerImageList;
                     vm.list = res.data.listFl;

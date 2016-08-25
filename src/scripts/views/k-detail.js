@@ -44,7 +44,7 @@ SPA.defineView('k-detail', {
 				},
 				
 				success:function(res){
-					console.log(res.data.listproducrs)
+//					console.log(res.data.listproducrs)
 					vm.detail = that.getItem(that.param.id,res);
 					
 				}

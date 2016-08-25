@@ -63,6 +63,10 @@ $base-color1:#fff;
     font-family: 'iconfont';
     src: url("/artifacts/images/iconfont/iconfont-k-m-nav.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-k-m-nav.ttf") format("truetype");
 }
+@font-face {
+    font-family: 'iconfont';
+    src: url("/artifacts/images/iconfont/iconfont-back.woff") format("woff"), url("/artifacts/images/iconfont/iconfont-back.ttf") format("truetype");
+}
 .iconfont {
     font-family: "iconfont" !important;
     font-size: 16px;

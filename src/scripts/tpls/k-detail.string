@@ -1,6 +1,6 @@
 <div class="m-detail">
 	<header>
-		<i class="yo-ico" action-type="back">&#xe679;</i>
+		<i class="iconfont" action-type="back">&#xe631;</i>
 		<span ms-text="detail.childTitle">ddddddd</span>
 		<i></i>
 	</header>
